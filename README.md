@@ -17,3 +17,6 @@ Developed an end-to-end data science pipeline to analyse 1.2M+ rows of London sm
 ## 🐍 Environment
 - Python 3.11 (Conda)
 - XGBoost, Prophet, Scikit-Learn, DuckDB
+
+### 📚 Technical Reference
+For a deep dive into the mathematical variables and logic used in this project, see the [Technical Cheatsheet](./CHEATSHEET.md).
