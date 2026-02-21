@@ -1,4 +1,4 @@
-# 📊 Cheatsheet 1: Smart Meter Energy Analytics
+# 📊 Cheatsheet 1: Smart Meter Energy Analytics & Forecasting
 **File:** `energy-usage-analysis/CHEATSHEET.md`
 
 ### 1. The Variables
